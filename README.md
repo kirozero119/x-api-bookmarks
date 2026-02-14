@@ -4,7 +4,7 @@ X API（従量課金 / Pay-Per-Use）で、自分の **ブックマーク** と 
 
 2026年2月に正式ローンチされた Pay-Per-Use モデルを使い、**$5（約750円）から**ブックマーク・いいねのAPI取得が可能になりました。
 
-📝 **解説記事**: [【2026年2月】X APIが従量課金に！$5で自分のブックマーク・いいねをAPI取得してみた](https://qiita.com/YOUR_USERNAME/items/ARTICLE_ID)
+📝 **解説記事**: [【2026年2月】X APIが従量課金に！$5で自分のブックマーク・いいねをAPI取得してみた](https://qiita.com/kirozero/items/026300973ca4d1cd4db5)
 
 ## できること
 
